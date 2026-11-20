@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "welding-1",
+    "group": "welding",
+    "level": 1,
+    "title": "SMAW – Corner Joint",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Recognise the geometry of a shielded metal arc welded corner joint. The drawing is a conceptual view, without welding parameters."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Steel rule; marking tool; square; clamps; welding equipment and instructor-specified PPE."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Two metal plates and a compatible electrode selected for the approved exercise."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "An electric arc supplies local heat to join the prepared plate edges. The coated electrode also contributes filler and protection around the weld zone."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/welding-1.svg",
+        "label": "SMAW – Corner Joint — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Prepare and inspect the work area and equipment under supervision."
+      },
+      {
+        "type": "text",
+        "text": "2. Check the plate edges and mark the intended joint position."
+      },
+      {
+        "type": "text",
+        "text": "3. Hold the plates in the required corner arrangement and check alignment."
+      },
+      {
+        "type": "text",
+        "text": "4. Secure the assembly using the instructor-approved tacking and joining method."
+      },
+      {
+        "type": "text",
+        "text": "5. After cooling, inspect the joint visually and compare its geometry with the approved drawing."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Plate position",
+            "The two faces meet at the intended corner."
+          ],
+          [
+            "Visible seam",
+            "The bead follows the meeting edge; appearance alone does not prove strength."
+          ],
+          [
+            "Surface condition",
+            "Distortion and visible discontinuities are points for inspection."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What does SMAW stand for?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Shielded Metal Arc Welding."
+      },
+      {
+        "type": "question",
+        "text": "2. What does the highlighted line identify?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: The meeting edge where the two plates are joined; it does not specify a weld size or operating setting."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why is alignment checked before joining?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Joining can lock the pieces in place, making an initial positioning error harder to correct."
+      },
+      {
+        "type": "question",
+        "text": "2. Why should hot work be supervised?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Arc radiation, hot metal, fumes and electrical equipment require appropriate controls and training."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Recognise the geometry of a shielded metal arc welded corner joint. The drawing is a conceptual view, without welding parameters. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/welding-1.svg",
+        "label": "SMAW – Corner Joint — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "welding-2",
+    "group": "welding",
+    "level": 2,
+    "title": "Staircase Welding and Lighting Assembly",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify the structural steps, lighting positions and separate low-voltage circuit in a staircase assembly."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; square; marking and holding tools; approved joining equipment; low-voltage test equipment."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Stair components; base; suitable light units; switch; insulated conductors; rated low-voltage supply."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "The staircase is the supporting structure. A separate electrical circuit allows a switch to control light units mounted at selected locations."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/welding-2.svg",
+        "label": "Staircase Welding and Lighting Assembly — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify all structural parts from the approved drawing."
+      },
+      {
+        "type": "text",
+        "text": "2. Check the stair positions and assemble the structure using the specified joining method."
+      },
+      {
+        "type": "text",
+        "text": "3. Inspect the cooled structure and finish sharp edges using the approved procedure."
+      },
+      {
+        "type": "text",
+        "text": "4. With power disconnected, arrange the rated low-voltage lights, switch and conductors."
+      },
+      {
+        "type": "text",
+        "text": "5. Have the wiring inspected before energising; check the switch and observe each light."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Structure",
+            "Steps remain supported and aligned."
+          ],
+          [
+            "Switch operation",
+            "Opening the circuit removes the intended light supply."
+          ],
+          [
+            "Lighting",
+            "Each intended lighting position can be inspected individually."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why show the lighting circuit separately?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It makes the electrical connections easier to distinguish from the staircase structure."
+      },
+      {
+        "type": "question",
+        "text": "2. Is the circuit a mains-wiring diagram?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. It is a conceptual battery-powered light circuit and does not specify a rated practical installation."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why separate mechanical assembly from electrical testing?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It helps isolate structural issues from circuit issues and avoids working on energised connections."
+      },
+      {
+        "type": "question",
+        "text": "2. Why check insulation?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Exposed or damaged conductors may create unintended contact paths."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify the structural steps, lighting positions and separate low-voltage circuit in a staircase assembly. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/welding-2.svg",
+        "label": "Staircase Welding and Lighting Assembly — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "welding-3",
+    "group": "welding",
+    "level": 3,
+    "title": "Solar Based Power Generation System",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify a solar panel, controller, storage battery and load in a conceptual energy system."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; mounting tools; suitable multimeter; instructor-approved wiring tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Solar panel; compatible controller; suitable battery where specified; mounting frame; rated load."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "A photovoltaic panel converts light into electrical energy. A compatible controller manages the intended electrical interface; a battery can store energy when the selected system includes storage."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/welding-3.svg",
+        "label": "Solar Based Power Generation System — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the panel, support, controller, storage and load used in the approved system."
+      },
+      {
+        "type": "text",
+        "text": "2. Check mounting locations and ratings with the instructor."
+      },
+      {
+        "type": "text",
+        "text": "3. Assemble the support and inspect the panel mounting."
+      },
+      {
+        "type": "text",
+        "text": "4. Connect the system only according to the approved wiring diagram and inspection procedure."
+      },
+      {
+        "type": "text",
+        "text": "5. Compare the indicated electrical behaviour under the specified illumination conditions."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Illumination",
+            "Panel output may change when illumination changes."
+          ],
+          [
+            "Storage",
+            "Battery and controller behaviour depends on their specifications."
+          ],
+          [
+            "Load",
+            "A connected load uses delivered electrical power."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What is the role of the panel?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It converts incident light into electrical energy."
+      },
+      {
+        "type": "question",
+        "text": "2. What is the role of the battery in this example?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It stores energy for later use. The diagram does not specify battery chemistry, charging settings or component ratings."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why are component ratings important?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Voltage, current and charging compatibility affect whether the components can operate together."
+      },
+      {
+        "type": "question",
+        "text": "2. Does a solar panel always deliver its nameplate power?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Actual output depends on conditions including illumination, temperature and load."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify a solar panel, controller, storage battery and load in a conceptual energy system. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/welding-3.svg",
+        "label": "Solar Based Power Generation System — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "carpentry-1",
+    "group": "carpentry",
+    "level": 1,
+    "title": "Cross Halving Joint",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Understand how complementary recesses permit two wooden strips to cross."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; try square; marking gauge; saw; chisel; mallet; holding tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Two suitable wooden members with dimensions specified in the exercise drawing."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "Complementary recesses let two crossing members share the overlap region. Accurate marking and controlled material removal determine how well the surfaces meet."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-1.svg",
+        "label": "Cross Halving Joint — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Examine the two members and identify reference faces."
+      },
+      {
+        "type": "text",
+        "text": "2. Transfer the overlap position from the approved drawing using the reference faces."
+      },
+      {
+        "type": "text",
+        "text": "3. Mark and verify the material-removal limits before cutting."
+      },
+      {
+        "type": "text",
+        "text": "4. Form the recesses using the demonstrated woodworking method."
+      },
+      {
+        "type": "text",
+        "text": "5. Bring the members together and inspect alignment and contact without forcing the joint."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Reference faces",
+            "Consistent reference faces help transfer matching marks."
+          ],
+          [
+            "Contact",
+            "The overlapping surfaces can be examined for uneven seating."
+          ],
+          [
+            "Alignment",
+            "The assembled members can be compared with the required orientation."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why show an exploded view?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It exposes the recesses that become hidden when the members overlap."
+      },
+      {
+        "type": "question",
+        "text": "2. Does the sketch specify the notch depth?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. A dimensioned drawing is needed before constructing a physical joint."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why identify a reference face?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It gives a consistent origin for marking and checking dimensions."
+      },
+      {
+        "type": "question",
+        "text": "2. Why avoid forcing the members together?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Force may hide a size error or damage the material instead of correcting the fit."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Understand how complementary recesses permit two wooden strips to cross. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-1.svg",
+        "label": "Cross Halving Joint — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "carpentry-2",
+    "group": "carpentry",
+    "level": 2,
+    "title": "Wooden Robot Fabrication",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Distinguish the major wooden components and the pivot joints in a robot-shaped model."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; square; marking tools; supervised cutting and drilling equipment; finishing tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Wooden head, body and limb pieces; approved pins or fasteners; adhesive where specified."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "A robot-shaped model combines distinct members into a body assembly. Depending on the design, joint connections may be fixed or permit rotation."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-2.svg",
+        "label": "Wooden Robot Fabrication — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the head, body and limb components in the approved drawing."
+      },
+      {
+        "type": "text",
+        "text": "2. Mark the piece outlines and joint positions using consistent references."
+      },
+      {
+        "type": "text",
+        "text": "3. Prepare the pieces with the supervised cutting and drilling procedure."
+      },
+      {
+        "type": "text",
+        "text": "4. Finish rough edges and assemble the specified connections."
+      },
+      {
+        "type": "text",
+        "text": "5. Check the resulting shape and any intended articulation."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Components",
+            "Head, body and limbs remain distinguishable."
+          ],
+          [
+            "Connections",
+            "Fixed connections and movable pivots serve different purposes."
+          ],
+          [
+            "Movement",
+            "Articulation depends on the selected joint design."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What do the circles represent?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Simplified pivot connections between the model’s components."
+      },
+      {
+        "type": "question",
+        "text": "2. Does the model need to be powered?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: A wooden model can be static or articulated. The actual experiment requirements depend on the faculty-approved design."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why finish edges before final assembly?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Finishing is often easier while the separate faces are accessible."
+      },
+      {
+        "type": "question",
+        "text": "2. Why should pivot holes align?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Misaligned holes can interfere with a pin or prevent the intended movement."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Distinguish the major wooden components and the pivot joints in a robot-shaped model. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-2.svg",
+        "label": "Wooden Robot Fabrication — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "carpentry-3",
+    "group": "carpentry",
+    "level": 3,
+    "title": "Motorized Robotic Arm Activation",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify the motor-driven pivot, arm links and end attachment of a simplified robotic arm."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; assembly tools; suitable electrical test equipment; instructor-approved control tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Base; arm links; joint connections; motor or actuator; compatible driver and supply; end attachment."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "A motor-driven joint changes the relative orientation of connected links. The power supply, driver, transmission and control method must match the selected actuator and mechanism."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-3.svg",
+        "label": "Motorized Robotic Arm Activation — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the base, links, joint connections and actuator in the approved design."
+      },
+      {
+        "type": "text",
+        "text": "2. Assemble the mechanical structure and check clearance with power disconnected."
+      },
+      {
+        "type": "text",
+        "text": "3. Install the actuator using the specified mounting and coupling."
+      },
+      {
+        "type": "text",
+        "text": "4. Have the supply and control connections checked against the approved circuit."
+      },
+      {
+        "type": "text",
+        "text": "5. Test only the allowed motion range under supervision and observe interference or binding."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Pivot",
+            "The joint defines where relative rotation occurs."
+          ],
+          [
+            "Clearance",
+            "Links need room for the intended movement."
+          ],
+          [
+            "Control",
+            "Command and motion depend on the particular actuator and controller."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What is the motor’s role?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: To provide rotational motion at a driven joint through a suitable connection."
+      },
+      {
+        "type": "question",
+        "text": "2. Is a motor alone a complete arm control system?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Power, mechanical coupling, control and suitable limits depend on the actual implementation."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why test for binding before powering the mechanism?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: A jammed joint can prevent motion and place excessive demand on the actuator."
+      },
+      {
+        "type": "question",
+        "text": "2. Does adding a motor make an arm autonomous?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Autonomous behaviour additionally needs an appropriate control system and information about the task."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify the motor-driven pivot, arm links and end attachment of a simplified robotic arm. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/carpentry-3.svg",
+        "label": "Motorized Robotic Arm Activation — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "sheet-metal-1",
+    "group": "sheet-metal",
+    "level": 1,
+    "title": "Rectangular Tray Making",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify the base, four walls and fold lines of a conceptual rectangular tray."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; square; scriber; appropriate cutting and forming tools; edge-finishing tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Suitable sheet material and joining materials, if required by the approved tray design."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "A flat layout identifies the base and wall regions. Forming changes the wall orientations; a practical layout must account for thickness, bend behaviour and corner construction."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-1.svg",
+        "label": "Rectangular Tray Making — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the base, wall heights and corner treatment from the dimensioned drawing."
+      },
+      {
+        "type": "text",
+        "text": "2. Prepare the approved layout including the specified bend information."
+      },
+      {
+        "type": "text",
+        "text": "3. Mark and verify cut and bend locations before material removal."
+      },
+      {
+        "type": "text",
+        "text": "4. Cut, finish edges and form the walls using the demonstrated method."
+      },
+      {
+        "type": "text",
+        "text": "5. Complete the required corner connections and inspect the tray geometry."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Flat layout",
+            "The central region corresponds to the base."
+          ],
+          [
+            "Formed walls",
+            "Walls surround the base to create an open volume."
+          ],
+          [
+            "Corners",
+            "Corner construction depends on the specified design."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Which region becomes the tray base?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: The central rectangle in the unfolded layout."
+      },
+      {
+        "type": "question",
+        "text": "2. Why can’t this flat net be used as a cutting template?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It has no dimensions, material thickness, bend allowance or joining details."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why is edge finishing necessary?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Cut sheet edges can be sharp and can interfere with assembly or handling."
+      },
+      {
+        "type": "question",
+        "text": "2. What is missing from a purely visual net?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It does not establish working dimensions, thickness compensation or the intended corner connection."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify the base, four walls and fold lines of a conceptual rectangular tray. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-1.svg",
+        "label": "Rectangular Tray Making — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "sheet-metal-2",
+    "group": "sheet-metal",
+    "level": 2,
+    "title": "Mini Motorized Forklift Fabrication",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Study the chassis, wheels, mast and fork carriage before assembly."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Measuring and marking tools; supervised cutting and drilling tools; assembly tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Chassis; mast supports; wheels and axles; fork carriage; motor mount; approved fasteners."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "Fabrication prepares the separate structural components and their interfaces so the forklift model can subsequently be assembled and operated as designed."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-2.svg",
+        "label": "Mini Motorized Forklift Fabrication — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify separate chassis, support and carriage pieces from the approved part drawings."
+      },
+      {
+        "type": "text",
+        "text": "2. Mark outlines, hole locations and interfaces on the selected materials."
+      },
+      {
+        "type": "text",
+        "text": "3. Check the marks before supervised cutting, drilling and edge finishing."
+      },
+      {
+        "type": "text",
+        "text": "4. Compare the prepared parts with the drawing and each other."
+      },
+      {
+        "type": "text",
+        "text": "5. Trial-assemble the structural interfaces before fitting the powered mechanisms."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Part identity",
+            "Each prepared part has a defined place in the assembly."
+          ],
+          [
+            "Interfaces",
+            "Hole positions and contact faces affect assembly alignment."
+          ],
+          [
+            "Trial assembly",
+            "A trial fit can reveal interference before final fastening."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What is the mast?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: The upright structure associated with guiding the lifting carriage."
+      },
+      {
+        "type": "question",
+        "text": "2. Why use a separated component view?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It helps identify the parts and their relationships before studying the complete assembly."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why distinguish fabrication from final operation?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: A correctly made part still has to be integrated with the rest of the assembly and its drive system."
+      },
+      {
+        "type": "question",
+        "text": "2. Why inspect hole positions?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Incorrect positions may prevent parts from aligning or fastening as intended."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Study the chassis, wheels, mast and fork carriage before assembly. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-2.svg",
+        "label": "Mini Motorized Forklift Fabrication — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "sheet-metal-3",
+    "group": "sheet-metal",
+    "level": 3,
+    "title": "Mini Motorized Forklift",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify how the carriage is guided by the mast in the assembled model."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Assembly tools; measuring tools; suitable test equipment; instructor-specified safety equipment."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Fabricated chassis; wheels and axles; mast; fork carriage; selected drive and lift components; compatible supply."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "The mast guides the carriage while the fork attachment supports an intended load. Propulsion and lifting may use separate mechanisms depending on the approved model."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-3.svg",
+        "label": "Mini Motorized Forklift — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the fabricated chassis, mast, carriage and selected drive components."
+      },
+      {
+        "type": "text",
+        "text": "2. Assemble the chassis, wheels and mast according to the approved arrangement."
+      },
+      {
+        "type": "text",
+        "text": "3. Install the carriage guides and check free movement with power disconnected."
+      },
+      {
+        "type": "text",
+        "text": "4. Fit the specified motor, transmission and electrical connections under supervision."
+      },
+      {
+        "type": "text",
+        "text": "5. Test unloaded movement before any instructor-approved loading exercise."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Stability",
+            "Support geometry and load position affect stability."
+          ],
+          [
+            "Carriage travel",
+            "Guides constrain the intended carriage path."
+          ],
+          [
+            "Drive",
+            "Wheel movement and lifting are distinct functions."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What supports the item being lifted?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: The forks attached to the carriage in this conceptual model."
+      },
+      {
+        "type": "question",
+        "text": "2. Does this sketch establish a safe load?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Load capacity depends on the actual design, materials, stability and testing."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why begin with an unloaded check?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: It helps identify alignment and motion problems before introducing an added load."
+      },
+      {
+        "type": "question",
+        "text": "2. Can a model’s safe load be read from a sketch?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. It requires a suitable design assessment and the approved testing method."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify how the carriage is guided by the mast in the assembled model. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/sheet-metal-3.svg",
+        "label": "Mini Motorized Forklift — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "fitting-1",
+    "group": "fitting",
+    "level": 1,
+    "title": "Step Fitting",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify a stepped projection and its complementary recess."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Steel rule; square; scriber; bench vice; appropriate saw and files; approved measuring equipment."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Two workpieces with dimensions, material and fitting allowance specified in the drawing."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "The stepped projection on one piece corresponds to the recess on the other. Material removal and dimensional checking establish the intended clearance and contact."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-1.svg",
+        "label": "Step Fitting — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Choose the reference edges and examine the approved dimensions."
+      },
+      {
+        "type": "text",
+        "text": "2. Mark both stepped profiles and verify the relationships between them."
+      },
+      {
+        "type": "text",
+        "text": "3. Remove bulk material using the demonstrated supervised method."
+      },
+      {
+        "type": "text",
+        "text": "4. Approach the specified size progressively with suitable filing and inspection."
+      },
+      {
+        "type": "text",
+        "text": "5. Compare the pieces and check the fit without forcing them together."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Profile",
+            "Projection and recess have complementary stepped outlines."
+          ],
+          [
+            "Squareness",
+            "Reference surfaces support orientation checks."
+          ],
+          [
+            "Fit",
+            "Actual fit depends on measured size and specified allowance."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What makes the profiles complementary?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: The stepped projection on one piece corresponds to the recess on the other."
+      },
+      {
+        "type": "question",
+        "text": "2. Does a matching sketch guarantee a fit?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Actual dimensions, tolerances and inspection determine whether real parts fit."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why remove material progressively near the final size?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Excess removal cannot be undone by further filing."
+      },
+      {
+        "type": "question",
+        "text": "2. Why should a fit be checked with measurements?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Visual similarity does not establish the required dimensions or clearance."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify a stepped projection and its complementary recess. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-1.svg",
+        "label": "Step Fitting — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "fitting-2",
+    "group": "fitting",
+    "level": 2,
+    "title": "Scissor Lift Mechanism Fabrication and Assembly",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Explain how crossed links and pivot connections form a scissor lift arrangement."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; marking tools; supervised cutting and drilling tools; assembly tools."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Base; platform; crossed links; pivots; guides or sliding connections; approved actuation components."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "Crossed links connected at pivots change platform height as the mechanism changes configuration. Guides or sliding connections accommodate the required relative movement."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-2.svg",
+        "label": "Scissor Lift Mechanism Fabrication and Assembly — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the base, platform, links, pivots and guides in the approved drawing."
+      },
+      {
+        "type": "text",
+        "text": "2. Prepare and inspect the link interfaces and joint locations."
+      },
+      {
+        "type": "text",
+        "text": "3. Assemble the linkage in the specified order with power or loading removed."
+      },
+      {
+        "type": "text",
+        "text": "4. Check the permitted movement and inspect for binding or interference."
+      },
+      {
+        "type": "text",
+        "text": "5. Have the completed assembly inspected before any approved actuation or loading test."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Links",
+            "The crossed members transfer movement through the linkage."
+          ],
+          [
+            "Pivots",
+            "Pivots permit relative rotation at the defined joints."
+          ],
+          [
+            "Travel",
+            "Travel depends on the actual geometry and constraints."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What connects the two crossed links?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: A pivot at their crossing point in the simplified drawing."
+      },
+      {
+        "type": "question",
+        "text": "2. Does the diagram establish safe lifting capacity?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. It illustrates component relationships, not structural capacity or certified operation."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why can some end connections need to slide?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Changing link angles can change the horizontal separation required at the endpoints."
+      },
+      {
+        "type": "question",
+        "text": "2. Why keep hands away from moving joints?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Moving links and pivots can create trapping and pinch locations."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Explain how crossed links and pivot connections form a scissor lift arrangement. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-2.svg",
+        "label": "Scissor Lift Mechanism Fabrication and Assembly — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "fitting-3",
+    "group": "fitting",
+    "level": 3,
+    "title": "Fabrication and Assembly of a DC Motor-Driven Pulley Mechanism for Energy Conversion",
+    "available": true,
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Aim"
+      },
+      {
+        "type": "text",
+        "text": "Identify a driving motor, belt, driven pulley and generator in a conceptual energy-conversion arrangement."
+      },
+      {
+        "type": "heading",
+        "text": "Tools Required"
+      },
+      {
+        "type": "text",
+        "text": "Rule; alignment tools; assembly tools; suitable electrical measuring equipment."
+      },
+      {
+        "type": "heading",
+        "text": "Materials Required"
+      },
+      {
+        "type": "text",
+        "text": "Driving DC motor; pulleys and belt; driven generator or motor used as specified; base and supports; compatible supply and load."
+      },
+      {
+        "type": "heading",
+        "text": "Working Principle"
+      },
+      {
+        "type": "text",
+        "text": "The driving motor converts electrical energy into shaft motion. A belt transmits rotation to a driven shaft, and a suitable generator converts part of the mechanical input into electrical output. Losses occur at every stage."
+      },
+      {
+        "type": "heading",
+        "text": "Diagram"
+      },
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-3.svg",
+        "label": "Fabrication and Assembly of a DC Motor-Driven Pulley Mechanism for Energy Conversion — conceptual diagram",
+        "width": 660,
+        "height": 430
+      },
+      {
+        "type": "heading",
+        "text": "Sequence of Operation"
+      },
+      {
+        "type": "text",
+        "text": "1. Identify the motor, shafts, pulleys, belt, supports and output device in the approved arrangement."
+      },
+      {
+        "type": "text",
+        "text": "2. Mount the supports and check the specified shaft and pulley alignment."
+      },
+      {
+        "type": "text",
+        "text": "3. Install and inspect the belt using the approved tension and guarding method."
+      },
+      {
+        "type": "text",
+        "text": "4. Have all supply and output connections checked before operation."
+      },
+      {
+        "type": "text",
+        "text": "5. Run the permitted test under supervision and compare input, rotation and output observations."
+      },
+      {
+        "type": "heading",
+        "text": "Observation and Inference"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Aspect",
+            "Conceptual interpretation"
+          ],
+          [
+            "Input stage",
+            "The driving motor receives electrical power."
+          ],
+          [
+            "Transmission",
+            "The belt carries mechanical motion between pulleys."
+          ],
+          [
+            "Output stage",
+            "The output device can supply a compatible load; losses prevent equal input and output power."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "These are explanatory relationships, not measured observations or claims that the physical experiment was performed."
+      },
+      {
+        "type": "heading",
+        "text": "Questions and Answers"
+      },
+      {
+        "type": "heading",
+        "text": "Pre Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. What does the belt transmit?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Mechanical rotation between the driving and driven pulley shafts."
+      },
+      {
+        "type": "question",
+        "text": "2. Is the final electrical output equal to the electrical input?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: No. Motor, transmission and generator losses mean the arrangement is not a source of free energy."
+      },
+      {
+        "type": "heading",
+        "text": "Post Lab Questions"
+      },
+      {
+        "type": "question",
+        "text": "1. Why check pulley alignment?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Misalignment can impair belt tracking and increase unwanted wear or losses."
+      },
+      {
+        "type": "question",
+        "text": "2. Why does this system not create free energy?"
+      },
+      {
+        "type": "answer",
+        "text": "Answer: Every stage has losses, so energy delivered to the final load is less than the energy supplied to the system."
+      },
+      {
+        "type": "heading",
+        "text": "Results"
+      },
+      {
+        "type": "text",
+        "text": "Expected learning outcome: Identify a driving motor, belt, driven pulley and generator in a conceptual energy-conversion arrangement. This describes the purpose of the exercise and does not certify a completed practical result."
+      }
+    ],
+    "diagrams": [
+      {
+        "type": "figure",
+        "src": "diagrams/fitting-3.svg",
+        "label": "Fabrication and Assembly of a DC Motor-Driven Pulley Mechanism for Energy Conversion — conceptual diagram",
+        "width": 660,
+        "height": 430
+      }
+    ],
+    "source": null
+  }
+]
